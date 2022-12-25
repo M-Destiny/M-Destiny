@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hi there! My name is Mehul and I am a developer with a strong passion for building beautiful and functional web applications. I am constantly seeking out new opportunities to learn and grow, and am always on the lookout for exciting projects to work on.
+<b>Hi there! My name is Mehul and I am a developer with a strong passion for building beautiful and functional web applications. I am constantly seeking out new opportunities to learn and grow, and am always on the lookout for exciting projects to work on.
 
 Right now, I am focused on building my portfolio and am looking for opportunities to collaborate on React and JavaScript projects. I am also in the process of learning the MERN stack (MongoDB, Express, React, and Node.js), which I am excited to add to my toolkit as a full-stack developer.
 
 I am always open to discussing coding, gaming, and music, and love to share my knowledge and experience with others. In my free time, I enjoy watching anime and K-dramas, and am always on the lookout for new series to discover.
 
-Thanks for reading, and I hope to connect with you soon!
+Thanks for reading, and I hope to connect with you soon!</b>
 
 
 ## 🌐 Socials:
