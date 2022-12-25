@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on building my portfolio<br>👯 I’m looking to collaborate on react and js projects<br>🌱 I’m currently learning MERN Stack <br>💬 Ask me about Coding, gaming, Music<br>⚡ Fun fact I spend most of my free time watching Anime or K-Dramas 
+Hi there! My name is [Your Name] and I am a developer with a strong passion for building beautiful and functional web applications. I am constantly seeking out new opportunities to learn and grow, and am always on the lookout for exciting projects to work on.
+
+Right now, I am focused on building my portfolio and am looking for opportunities to collaborate on React and JavaScript projects. I am also in the process of learning the MERN stack (MongoDB, Express, React, and Node.js), which I am excited to add to my toolkit as a full-stack developer.
+
+I am always open to discussing coding, gaming, and music, and love to share my knowledge and experience with others. In my free time, I enjoy watching anime and K-dramas, and am always on the lookout for new series to discover.
+
+Thanks for reading, and I hope to connect with you soon!
 
 
 ## 🌐 Socials:
